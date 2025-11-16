@@ -63,6 +63,19 @@ Copy code
 
 ---
 
+![Alt Text](https://raw.githubusercontent.com/Zehra-code743/TASK-1/7baa16a7530c8cb947be06741c04b9bb1bd0d889/Image1.png)
+
+![Alt Text](https://github.com/Zehra-code743/TASK-1/blob/7baa16a7530c8cb947be06741c04b9bb1bd0d889/Image2.png)
+
+![Alt Text](https://github.com/Zehra-code743/TASK-1/blob/7baa16a7530c8cb947be06741c04b9bb1bd0d889/Image3.png)
+
+![Alt Text](https://github.com/Zehra-code743/TASK-1/blob/7baa16a7530c8cb947be06741c04b9bb1bd0d889/Image4.png)
+
+
+
+
+
+
 # Reflection Activity (40 min)
 
 ## What AI-Driven Development Means to Me
